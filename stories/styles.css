@@ -47,6 +47,11 @@ header a, footer a {
     color: black;
 }
 
+footer div {
+    display: flex;
+    justify-content: end;
+}
+
 main div {
     margin: 20px 0;
 }
