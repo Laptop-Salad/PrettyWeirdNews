@@ -94,6 +94,11 @@ header a, footer a {
     color: black;
 }
 
+footer div {
+    display: flex;
+    justify-content: end;
+}
+
 /* BELOW 800PX CENTER */
 @media only screen and (max-width: 800px) {
     body > * {
