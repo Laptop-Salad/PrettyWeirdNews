@@ -61,6 +61,10 @@ main div {
     margin: auto auto;
 }
 
+.startpara {
+    align-items: start;
+}
+
 
 /* BELOW 800PX CENTER */
 @media only screen and (max-width: 800px) {
