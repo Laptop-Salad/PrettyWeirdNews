@@ -16,4 +16,4 @@ Here are some rules you have to follow when creating a new news story for this w
 
 7. When submitting a new news story please submit a pull request first, do not submit directly to main. If you are unsure how to do this please contact Laptop-Salad.
 
-8. Please place your name on the news story. At minimum there should be your real first name or your github account name. Requested stories can be from anonymous.
+8. Your name can be your Github name, or first real name, or anonymous at the end of the story with the date written.
